@@ -10,3 +10,8 @@ Guess The Number is a game where you must use your logic in order to guess a sec
 This number is guessed by you via multiple attempts. An attempt consists in a proposed number, selected by you, and the computer's reply. 
 
 Using information from the computer's reply, you must guess the number using as few moves as possible. Good luck!
+
+![Screenshot 2023-01-24 125543](https://user-images.githubusercontent.com/123195045/214274674-1c77cd9d-a534-4e5e-a7d7-59c420ad00ee.jpg)
+
+Try it here =>
+https://replit.com/@NikolayKaragyoz/GuessANumber#guessANumber.js
